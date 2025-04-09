@@ -1,0 +1,38 @@
+
+#  Summary Slide / Storyboard – Task 2: Coffee Shop Sales Analysis
+
+## Project Goal:
+To create a visual report using Power BI that uncovers key sales patterns and customer behavior from coffee shop transaction data.
+
+---
+
+## Key Visuals Used:
+- Total Sales Over Time (Line Chart)
+- Sales by Product Type (Bar Chart)
+- Sales by Hour of Day (Column Chart)
+- Payment Method Distribution (Pie Chart)
+- Top Performing Stores and Products (Cards and KPIs)
+
+---
+
+##  Key Business Insights:
+- Latte and Espresso drive the highest revenue.
+- Peak sales occur between 9 AM and 11 AM.
+- Thursdays and Fridays are the top-selling days of the week.
+- Card payments dominate the transaction landscape.
+- Store A outperforms others in sales and transaction count.
+
+---
+
+## Recommendations:
+- Promote top-selling items like Latte during low-performing hours.
+- Consider loyalty incentives for top customers.
+- Schedule more staff during morning hours on peak days.
+- Focus future marketing efforts on high-performing product and time segments.
+
+---
+
+## Deliverables:
+- Power BI Dashboard (PDF Export)
+- Insight Summary (.txt file)
+- README Documentation 
